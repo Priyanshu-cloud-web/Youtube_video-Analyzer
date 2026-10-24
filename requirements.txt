@@ -1,3 +1,4 @@
 streamlit>=1.30.0
 agno
 groq
+youtube_transcript_api
